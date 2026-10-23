@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Insurgency-Sandstorm-Config-Manager` · Updated: 2026-10-07
+`Insurgency-Sandstorm-Config-Manager` · Updated: 2026-10-24
 
 **Tags:** `insurgency-sandstorm` `config-manager` `tactical` `fps` `unreal-engine`
